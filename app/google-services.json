@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909357558414",
+    "project_id": "trackergym-aa32f",
+    "storage_bucket": "trackergym-aa32f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909357558414:android:78cb13c559631fcc2777df",
+        "android_client_info": {
+          "package_name": "edu.itvo.trackergym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909357558414-9uicfcdcejigv1f2dpt696d918d1iff9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.itvo.trackergym",
+            "certificate_hash": "556e6aad7e8169192f1b02601be6e2bf23b6e933"
+          }
+        },
+        {
+          "client_id": "909357558414-5ffeemsj8ol0abiv2jcnegctv7hp840b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "*****************************+"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909357558414-5ffeemsj8ol0abiv2jcnegctv7hp840b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
